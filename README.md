@@ -1,1 +1,0 @@
-# Noyon_Tech_Point_IPTV
