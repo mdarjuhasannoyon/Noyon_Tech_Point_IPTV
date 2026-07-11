@@ -1,2 +1,3 @@
 #EXTM3U
-#EXTINF:-1 group-title="Live Sports" group-title="LIVE Sports" tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png", Live FIFA Toffee
+#EXTINF:-1 group-title="Live Sports", Live 1
+https://example.com/live/stream.m3u8
