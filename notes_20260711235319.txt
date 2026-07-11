@@ -1,5 +1,0 @@
-07.11 11:52 PM
-tv_iv_425//gh.m3u
-#EXTM3U
-#EXTINF:-1 group-title="Live Sports" group-title="LIVE Sports" tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png", Live 1
-https://raw.githubusercontent.com/everylive/My-TV-Store/refs/heads/main/ads/index.m3u8
