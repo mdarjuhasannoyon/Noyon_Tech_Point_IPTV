@@ -1,3 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2JzlorD.png" group-title="Sports",T Sports hd 2
 https://flussonic.deltainfonet.com/01_Tsports_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,BTV
+http://103.205.133.14/hls/btv.m3u8
