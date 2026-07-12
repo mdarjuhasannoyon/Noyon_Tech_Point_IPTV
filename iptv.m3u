@@ -3,3 +3,5 @@
 https://flussonic.deltainfonet.com/01_Tsports_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,BTV Another 
 http://103.205.133.14/hls/btv.m3u
+#EXTINF:-1 tvg-logo="https://i.ibb.co/v4bVfRzG/btv-logo.png" ,BTV World
+http://103.205.133.14/hls/btv.m3u8
