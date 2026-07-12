@@ -1,3 +1,2 @@
 #EXTM3U
-#EXTINF:-1 group-title="Live Sports", Live 1
-https://example.com/live/stream.m3u8
+#EXTINF:-1 group-title="Bangladesh", tvg-id="", tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/12/btv-news-.jpg", group-title="Bangladesh",BTV News
