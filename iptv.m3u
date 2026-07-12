@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:-1 group-title="Bangladesh", tvg-logo="https://s3.aynaott.com/storage/d805cf57543080b49de8a2621cd54da4", group-title="Bangladesh",Ekushey Television (ETV)
-https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2JzlorD.png" group-title="Sports",T Sports hd 2
+https://flussonic.deltainfonet.com/01_Tsports_HD/tracks-v1a1/mono.m3u8
